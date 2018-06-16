@@ -5,10 +5,13 @@ class Person
   
   def name 
     @name 
+  end
   
   def job=(input)
     @job = input
+  end
   
   def job 
     @job 
+  end
 end
